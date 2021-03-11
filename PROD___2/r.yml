@@ -1,0 +1,9 @@
+packages:
+- cran_mirror: https://packagemanager.rstudio.com/all/__linux__/focal/latest/
+  packages:
+    - name: DT
+    - name: readxl
+    - name: remotes
+    - name: reshape2
+    - name: shinydashboard
+    - name: tidyr
