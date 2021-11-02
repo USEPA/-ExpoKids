@@ -1,0 +1,15 @@
+---
+packages:
+- cran_mirror: https://cran.r-project.org
+  packages:
+      - name: bitops
+      - name: DT
+      - name: plyr
+      - name: RCurl
+      - name: RJSONIO
+      - name: Rcpp
+      - name: readxl
+      - name: reshape2
+      - name: shinydashboard
+      - name: tidyr
+      - name: ./vendor_r/rCharts_0.4.5.tar.gz

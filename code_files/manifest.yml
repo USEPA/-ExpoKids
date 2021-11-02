@@ -1,0 +1,5 @@
+---
+applications:
+- name: expokids
+  buildpacks: 
+    - https://github.com/usepa/r-buildpack.git
