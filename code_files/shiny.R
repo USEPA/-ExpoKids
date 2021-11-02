@@ -1,5 +1,0 @@
-library(remotes)
-remotes::install_github('ramnathv/rCharts')
-library(shiny)
-#options('repos'='vendor_r')
-runApp(host="0.0.0.0", port=strtoi(Sys.getenv("PORT")))
