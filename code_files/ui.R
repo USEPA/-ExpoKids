@@ -342,5 +342,6 @@ ui <- fluidPage(
                 							</div>
                 						</footer>
                 	           ")
-                        )
+                        ),
+		theme = bslib::bs_theme(version = "5") 
                )
